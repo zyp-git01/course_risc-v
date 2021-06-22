@@ -1,0 +1,14 @@
+#ifdef _HBIRD_I2C_H
+#define _HBIRD_I2C_H
+
+
+#define DMA_REG_SOURCE_ADDR 0x04
+#define DMA_REG_PURPOSE_ADDR 0x08
+#define DMA_REG_BURST_ADDR 0x12
+#define DMA_REG_STATE 0x16
+
+
+
+
+
+
